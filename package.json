@@ -9,8 +9,8 @@
     "js": "uglifyjs-folder assets/js --output assets/js --each --extension .js --config-file uglify.json"
   },
   "devDependencies": {
-    "cssnano": "^4.1.10",
-    "postcss": "^8.2.6",
+    "cssnano": "^9.9.0",
+    "postcss": "^8.5.32",
     "postcss-cli": "^8.3.1",
     "postcss-import": "^14.0.0",
     "uglifyjs-folder": "^2.0.0"
